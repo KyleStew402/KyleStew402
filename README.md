@@ -3,7 +3,7 @@
 <!--
 **KyleStew402/KyleStew402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 ![](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)<!-- If you want the template for my gif, email me! -->
 
